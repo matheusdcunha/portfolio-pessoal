@@ -1,6 +1,6 @@
 # 🇧🇷 Portfolio Pessoal 📝
 
-Esse projeto foi um dos exercícios do curso do Origamid, peguei um design base do curso e trabalhei nele para colocar minhas características e gostos. Aprendi bastante a fazer um HTML Semântico, usar e ter uma perspectiva melhor de posicionamento no CSS, com displays Grid, Flexbox, o uso de position para alguns detalhes e ícones. Também quebrei a cabeça com a parte responsiva. Gostei bastante do resultado, ficou do jeito que projetei no design. Pretendo sempre está atualizando conforme novos projetos e curso.
+Esse projeto foi um dos exercícios do curso do Origamid, peguei um design base do curso e trabalhei nele para colocar minhas características e gostos. Aprendi bastante a fazer um HTML Semântico, usar e ter uma perspectiva melhor de posicionamento no CSS, com displays Grid, Flexbox, o uso de position para alguns detalhes e ícones. Também quebrei a cabeça com a parte responsiva. Gostei bastante do resultado, ficou do jeito que projetei no design. Pretendo sempre está atualizando conforme novos projetos e cursos.
 
 Site hospedado no GitHub Pages: https://matheusdcunha.github.io/portfolio-pessoal/
 # 🇺🇸 Personal Portfolio 📝
